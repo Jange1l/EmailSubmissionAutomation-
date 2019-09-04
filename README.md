@@ -5,13 +5,16 @@ While working as a brand ambassador for XYZ company it was my responsability to 
 I created this python script to help me automate the email input process. Below I will explain in detail how the script works and what you can do to edit this for your own use.
 
 
-THE PROCESS
+                  THE PROCESS
+
 ***** Data ******
+
 1. I created a csv file containing all the emails that I wanted to input into my personal brand ambassador link. 
 
 2. Using python, I cleaned the csv file to remove duplicate emails, empty spaces, syntax errors, and any other discrepancies that might interfere with the input process. 
 
 ***** Automation ******
+
 #This step doesn't require an external monitor but the monitor does help. 
 3. I opened the link on one side of the monitor and my spyder editor on the other. This should be calibrated so that you can comfortably see the code and terminal window on one side, and the website on the other. 
 
