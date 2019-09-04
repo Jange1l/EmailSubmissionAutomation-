@@ -4,8 +4,7 @@ While working as a brand ambassador for XYZ company it was my responsability to 
 
 I created this python script to help me automate the email input process. Below I will explain in detail how the script works and what you can do to edit this for your own use.
 
-
-                  THE PROCESS
+THE PROCESS
 
 ***** Data ******
 
